@@ -1,18 +1,24 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Sibele%20Pal&fontSize=45&fontAlignY=35&desc=Building%20Projects%20Daily%20🚀&descAlignY=55&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Sibele%20Pal&fontSize=45&fontAlignY=35&desc=Systems%20Builder%20%7C%20Problem%20Solver%20🚀&descAlignY=55&fontColor=ffffff)
 
-# Hi there 👋
+<h1 align="center">Hey, I'm Sibele 👩‍💻</h1>
 
-<!--
-**Sibele-Pal/Sibele-Pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Builder;Problem+Solver+(DSA);Web+Developer;Focused+%26+Consistent&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/🚧%20Portfolio-Coming%20Soon-yellow?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Sibele-Pal" width="140" style="border-radius:50%"/>
+</p>
+
+<p align="center">
+Systems Builder • Problem Solver (DSA) • Web Developer  
+Focused on building efficient systems and writing clean, scalable code.
+</p>
