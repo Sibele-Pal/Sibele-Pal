@@ -14,17 +14,6 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
----
-
-<h2 align="center">🧠 Core Strengths</h2>
-
-<p align="center">
-🚀 Problem Solving (DSA) & Logical Thinking  
-⚙️ Building Efficient & Scalable Systems  
-💻 Web Development with Clean UI  
-🧩 Strong Debugging & Optimization Skills  
-</p>
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/Sibele-Pal" width="140" style="border-radius:50%"/>
 </p>
@@ -32,4 +21,69 @@
 <p align="center">
 Systems Builder • Problem Solver (DSA) • Web Developer  
 Focused on building efficient systems and writing clean, scalable code.
+</p>
+
+---
+
+<h2 align="center">🧠 Core Strengths</h2>
+
+<p align="center">
+🚀 Problem Solving (DSA) & Logical Thinking  
+</p>
+
+<p align="center">
+⚙️ Building Efficient & Scalable Systems  
+</p>
+
+<p align="center">
+💻 Web Development with Clean UI  
+</p>
+
+<p align="center">
+🧩 Strong Debugging & Optimization Skills  
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python"/>
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+<h3 align="center">⚙️ Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibele-Pal&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibele-Pal&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="center">⚡ Dev Philosophy</h2>
+
+<p align="center">
+"First, solve the problem. Then, write the code."
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  📧 sibelepal683@gmail.com
 </p>
