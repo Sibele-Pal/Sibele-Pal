@@ -45,25 +45,24 @@ Focused on building efficient systems and writing clean, scalable code.
 
 ---
 
+---
+
 <h2 align="center">💻 Tech Stack</h2>
 
+<h3 align="center">🧠 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
 </p>
 
 <h3 align="center">🌐 Web Development</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 </p>
 
-<h3 align="center">⚙️ Tools</h3>
-
+<h3 align="center">⚙️ Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
