@@ -66,10 +66,6 @@ Focused on building efficient systems and writing clean, scalable code.
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sibele-Pal&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibele-Pal&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -81,8 +77,18 @@ Focused on building efficient systems and writing clean, scalable code.
 
 ---
 
+---
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  📧 sibelepal683@gmail.com
+  <a href="https://www.linkedin.com/in/sibele-pal-765a51265/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sibelepal683@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://x.com/sibele_codes">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
 </p>
