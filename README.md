@@ -3,6 +3,10 @@
 <h1 align="center">Hey, I'm Sibele 👩‍💻</h1>
 
 <p align="center">
+I build efficient systems, solve problems, and turn ideas into working products.
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Builder;Problem+Solver+(DSA);Web+Developer;Focused+%26+Consistent&center=true&width=500&height=50">
 </p>
 
@@ -72,7 +76,7 @@ Focused on building efficient systems and writing clean, scalable code.
 <h2 align="center">⚡ Dev Philosophy</h2>
 
 <p align="center">
-"First, solve the problem. Then, write the code."
+Build first. Learn fast. Improve constantly.
 </p>
 
 ---
