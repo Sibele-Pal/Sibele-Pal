@@ -14,6 +14,17 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
+---
+
+<h2 align="center">🧠 Core Strengths</h2>
+
+<p align="center">
+🚀 Problem Solving (DSA) & Logical Thinking  
+⚙️ Building Efficient & Scalable Systems  
+💻 Web Development with Clean UI  
+🧩 Strong Debugging & Optimization Skills  
+</p>
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/Sibele-Pal" width="140" style="border-radius:50%"/>
 </p>
