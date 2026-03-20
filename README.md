@@ -49,8 +49,6 @@ Focused on building efficient systems and writing clean, scalable code.
 
 ---
 
----
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <h3 align="center">🧠 Languages</h3>
@@ -68,8 +66,6 @@ Focused on building efficient systems and writing clean, scalable code.
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 
 ---
 
@@ -78,8 +74,6 @@ Focused on building efficient systems and writing clean, scalable code.
 <p align="center">
 Build first. Learn fast. Improve constantly.
 </p>
-
----
 
 ---
 
