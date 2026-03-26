@@ -1,13 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Sibele%20Pal&fontSize=45&fontAlignY=35&desc=Systems%20Builder%20%7C%20Problem%20Solver%20🚀&descAlignY=55&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=250\&section=header\&text=Sibele%20Pal\&fontSize=45\&fontAlignY=35\&desc=Systems%20Builder%20%7C%20Full%20Stack%20Developer%20🚀\&descAlignY=55\&fontColor=ffffff)
 
 <h1 align="center">Hey, I'm Sibele 👩‍💻</h1>
 
 <p align="center">
-I build efficient systems, solve problems, and turn ideas into working products.
+I design and build efficient systems, solve complex problems, and turn ideas into scalable products.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Builder;Problem+Solver+(DSA);Web+Developer;Focused+%26+Consistent&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Builder;Full+Stack+Developer;Problem+Solver+(DSA);Building+Scalable+Products&center=true&width=520&height=50">
 </p>
 
 <p align="center">
@@ -23,8 +23,9 @@ I build efficient systems, solve problems, and turn ideas into working products.
 </p>
 
 <p align="center">
-Systems Builder • Problem Solver (DSA) • Web Developer  
-Focused on building efficient systems and writing clean, scalable code.
+💡 Systems Thinker • ⚙️ Problem Solver • 🌐 Full Stack Developer  
+<br><br>
+I focus on building efficient, scalable systems and writing clean, maintainable code that solves real-world problems.
 </p>
 
 ---
@@ -32,19 +33,19 @@ Focused on building efficient systems and writing clean, scalable code.
 <h2 align="center">🧠 Core Strengths</h2>
 
 <p align="center">
-🚀 Problem Solving (DSA) & Logical Thinking  
+🚀 Strong Problem Solving (DSA & Logic Building)  
 </p>
 
 <p align="center">
-⚙️ Building Efficient & Scalable Systems  
+⚙️ System Design & Scalable Architecture Thinking  
 </p>
 
 <p align="center">
-💻 Web Development with Clean UI  
+💻 Clean & Responsive Web Development  
 </p>
 
 <p align="center">
-🧩 Strong Debugging & Optimization Skills  
+🧩 Debugging, Optimization & Performance Focus  
 </p>
 
 ---
@@ -61,18 +62,48 @@ Focused on building efficient systems and writing clean, scalable code.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 </p>
 
+<h3 align="center">💾 Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
+</p>
+
+<h3 align="center">🔗 APIs & Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+<p align="center">
+REST API Development (CRUD • JSON • Authentication • Integration)
+</p>
+
 <h3 align="center">⚙️ Tools & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibele-Pal&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibele-Pal&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 <h2 align="center">⚡ Dev Philosophy</h2>
 
 <p align="center">
-Build first. Learn fast. Improve constantly.
+Build → Break → Learn → Improve → Repeat
+</p>
+
+<p align="center">
+Consistency beats motivation. Systems beat goals.
 </p>
 
 ---
